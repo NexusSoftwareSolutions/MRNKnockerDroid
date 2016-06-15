@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MRNKnocker</string>
+    <string name="action_settings">Settings</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="select_sales_person_label">Select Salesperson</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="select_response_type_label">Select Response Type</string>
+    <string name="address_confirm_header_labelplease_confirm_address_information">Please Confirm Address Information</string>
+    <string name="customer_information_header_label">Please Enter Customer Information</string>
+</resources>
